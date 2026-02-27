@@ -83,7 +83,7 @@ Contributions are welcome! You can contribute by:
 
 Every contribution helps others learn too!
 
-👤 About Me
+👤  About Me
 
 Piyush Kumar
 📍 CSE – Data Science Student
